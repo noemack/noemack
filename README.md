@@ -1,6 +1,6 @@
 ### Hola soy Noelia! :woman_technologist:
 
-Apasionada de los Datos y la Transformación Digital 
+:computer: Apasionada de los Datos y la Transformación Digital 
 
 🌱 Experimentando por este camino tengo como interés compartir mi ruta de aprendizaje inicial en las principales áreas de conocimiento para fortalecer el desarrollo en la ciencia de datos
 
