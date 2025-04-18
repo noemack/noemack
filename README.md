@@ -1,5 +1,7 @@
-🌱 Experimentando por el camino de la Transformación Digital tengo como interés compartir mi ruta de aprendizaje en las principales áreas de conocimiento para fortalecer el desarrollo en la ciencia de datos
+🌱 Explorando el camino de la Transformación Digital, comparto mi proceso de aprendizaje en áreas clave como análisis de datos, ciencia de datos e inteligencia artificial, con el objetivo de seguir creciendo y aportar valor a la comunidad.
 
-:bulb: Interesada en: #datascience #machinelearning #bigdata # trabajoremoto #IA
+📊 Actualmente trabajando con herramientas como Power BI, Python, y otras tecnologías orientadas al análisis, visualización e interpretación de datos.
 
-:muscle: Miembro colaborador en @talentosremotos.uy - Comunidad de trabajadores remotos
+💡 Intereses: #DataAnalytics #DataScience #MachineLearning #BigData #TrabajoRemoto #InteligenciaArtificial
+
+💪 Colaboradora en @talentosremotos.uy – Comunidad de profesionales que apuestan por el trabajo remoto.
